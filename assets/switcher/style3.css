@@ -1,0 +1,15 @@
+#style-switcher h2 a {
+    background: #f53a53;
+}
+
+.status{
+    background: #f53a53 !important;
+}
+
+.contact-us{
+    background: #f53a53 !important;
+}
+
+.pricing .item-top{
+    background: #f53a53;
+}
